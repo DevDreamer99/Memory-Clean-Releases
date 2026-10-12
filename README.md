@@ -48,6 +48,9 @@ The app checks this page once a day and tells you when a new version is availabl
 
 ## What's new
 
+**1.0.2**
+- The menu bar item uses the standard macOS width and margins.
+
 **1.0.1**
 - Runs on macOS 14 Sonoma and later, on Apple silicon and Intel Macs.
 - Warns you when a clean wouldn't help, and skips useless automatic cleans.
