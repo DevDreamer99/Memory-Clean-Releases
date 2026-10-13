@@ -15,6 +15,21 @@
 
 ---
 
+<p align="center">
+  <img src="assets/screenshots/1-main.jpg" alt="Memory Clean: the main window">
+</p>
+
+<table>
+  <tr>
+    <td><img src="assets/screenshots/3-clean.jpg" alt="Result of a clean"></td>
+    <td><img src="assets/screenshots/2-dark.jpg" alt="Dark mode"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/4-compact.jpg" alt="Compact window"></td>
+    <td><img src="assets/screenshots/5-settings.jpg" alt="Settings"></td>
+  </tr>
+</table>
+
 ## Install
 
 1. Download the `.dmg` from the [latest release](https://github.com/DevDreamer99/Memory-Clean-Releases/releases/latest).
@@ -47,6 +62,9 @@ The app checks this page once a day and tells you when a new version is availabl
 | 1.0.0 | 27 or later | Apple silicon |
 
 ## What's new
+
+**1.0.3**
+- Large values (10 GB and more) no longer wrap in the window.
 
 **1.0.2**
 - The menu bar item uses the standard macOS width and margins.
