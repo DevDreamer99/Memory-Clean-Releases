@@ -36,7 +36,7 @@
 2. Open it and drag **Memory Clean** into **Applications**.
 3. Open Memory Clean: it lives in the menu bar.
 
-The app checks this page once a day and tells you when a new version is available (you can turn this off in Settings).
+The app checks this page once a day and, when a new version is out, installs it for you with one click (you can turn the check off in Settings).
 
 ## Features
 
@@ -62,6 +62,10 @@ The app checks this page once a day and tells you when a new version is availabl
 | 1.0.0 | 27 or later | Apple silicon |
 
 ## What's new
+
+**1.0.4**
+- Updates install from inside the app: *Install and Relaunch* downloads the new version, checks it's signed and notarized, and reopens.
+- Started at login, it stays in the menu bar without opening its window.
 
 **1.0.3**
 - Large values (10 GB and more) no longer wrap in the window.
