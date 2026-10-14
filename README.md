@@ -63,6 +63,9 @@ The app checks this page once a day and, when a new version is out, installs it 
 
 ## What's new
 
+**1.0.5**
+- Settings always open in the middle of the screen you're using.
+
 **1.0.4**
 - Updates install from inside the app: *Install and Relaunch* downloads the new version, checks it's signed and notarized, and reopens.
 - Started at login, it stays in the menu bar without opening its window.
