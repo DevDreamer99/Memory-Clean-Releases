@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icon.png" width="128" height="128" alt="Memory Clean icon">
+  <img src="assets/cover.jpg" alt="Memory Clean: your Mac's memory, free again">
 </p>
 
 <h1 align="center">Memory Clean</h1>
