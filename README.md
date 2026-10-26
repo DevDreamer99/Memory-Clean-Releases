@@ -63,6 +63,9 @@ The app checks this page once a day and, when a new version is out, installs it 
 
 ## What's new
 
+**1.0.6**
+- More accurate "freed" amount: measured once memory has settled.
+
 **1.0.5**
 - Settings always open in the middle of the screen you're using.
 
