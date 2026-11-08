@@ -58,11 +58,6 @@ The app checks this page once a day and, when a new version is out, installs it 
 
 macOS 14 Sonoma or later, on Apple silicon or Intel Macs.
 
-## What's new
-
-**1.0.0**
-- First release.
-
 ---
 
 <p align="center"><sub>© 2026 Memory Clean</sub></p>
